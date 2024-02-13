@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on DevOps
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Django Framework
 - 💬 Ask me about Mathematics
