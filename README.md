@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - mailto: [E-Mail](mailto:user@example.com)
   - Linkedin: [Check Profile](https://www.linkedin.com/in/ahmetkasimerbay/)
-- ⚡ Fun fact: I love Kebap
 
